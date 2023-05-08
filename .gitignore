@@ -3,3 +3,6 @@ transactions.csv
 sample_addresses.csv
 transactions.csv.zip
 transactionData/
+KEYS.txt
+202303_etherscan_labels.csv
+
