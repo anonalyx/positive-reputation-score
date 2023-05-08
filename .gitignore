@@ -2,4 +2,4 @@ venv/
 transactions.csv
 sample_addresses.csv
 transactions.csv.zip
-transactiondata/
+transactionData/
